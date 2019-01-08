@@ -1,1 +1,1 @@
-# template
+# sample-template-real-esate
